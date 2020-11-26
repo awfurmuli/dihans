@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-19T04:12:06Z" name="Default suite" finished-at="2020-11-19T04:12:17Z" duration-ms="10779">
+    <groups>
+    </groups>
+    <test started-at="2020-11-19T04:12:06Z" name="Default test" finished-at="2020-11-19T04:12:17Z" duration-ms="10779">
+      <class name="com.dihans.pages.HomePageTest">
+        <test-method signature="goToHomePageTest()[pri:0, instance:com.dihans.pages.HomePageTest@654d8173]" started-at="2020-11-18T23:12:06Z" name="goToHomePageTest" finished-at="2020-11-18T23:12:17Z" duration-ms="10760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePageTest -->
+      </class> <!-- com.dihans.pages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
